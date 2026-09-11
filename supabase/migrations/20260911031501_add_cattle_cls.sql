@@ -1,0 +1,1 @@
+alter table cattle add column cls text;
